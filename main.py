@@ -51,5 +51,5 @@ for filename in os.listdir('./cogs'):
 
 
 
-client.run('ODA2Nzk3NzMxMjA0Njk0MDE2.YBuq8A.V78ZqJBV6fPQKcSd-I6wpImGtZ0') #You know what this is fuck off
+client.run('Token') #You know what this is fuck off
 
